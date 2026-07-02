@@ -1,0 +1,4 @@
+Modelo,Acurácia,Precision (macro),Recall (macro),F1 (macro)
+Árvore de Decisão,0.8805,0.8649,0.8597,0.8615
+Random Forest,0.9292,0.9255,0.9031,0.9125
+MLP (rede neural),0.8363,0.8166,0.8107,0.8129

@@ -209,6 +209,7 @@ if __name__ == "__main__":
          "LENTIDÃO MODERADA", 0.48, False,
          {"chuva_mm_h": 10, "atraso_onibus_min": 8}),
     ]
+    
 
     for titulo, classe, conf, anom, reg in cenarios_teste:
         r = decidir(classe, conf, anom, reg)
